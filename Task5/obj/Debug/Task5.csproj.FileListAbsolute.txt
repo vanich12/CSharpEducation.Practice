@@ -1,0 +1,7 @@
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\bin\Debug\Task5.exe.config
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\bin\Debug\Task5.exe
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\bin\Debug\Task5.pdb
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\obj\Debug\Task5.exe
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task5\obj\Debug\Task5.pdb
