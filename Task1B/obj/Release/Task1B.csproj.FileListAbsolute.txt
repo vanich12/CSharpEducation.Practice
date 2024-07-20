@@ -1,0 +1,10 @@
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\bin\Release\Task1B.exe.config
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\bin\Release\Task1B.exe
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\bin\Release\Task1B.pdb
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\obj\Release\Task1B.csproj.AssemblyReference.cache
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\obj\Release\Task1B.csproj.CoreCompileInputs.cache
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\obj\Release\Task1B.exe
+C:\Users\ivanmirable\source\repos\CSharpEducation.Practice\Task1B\obj\Release\Task1B.pdb
+C:\Users\ivanmirable\source\bin\Release\Task1B.exe.config
+C:\Users\ivanmirable\source\bin\Release\Task1B.exe
+C:\Users\ivanmirable\source\bin\Release\Task1B.pdb

@@ -10,6 +10,11 @@ namespace Task1B
     {
         static void Main(string[] args)
         {
+            int age;
+            string name;
+            string companyName;
+            bool flag;
+            double weight;
         }
     }
 }
